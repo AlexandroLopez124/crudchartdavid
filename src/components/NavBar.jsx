@@ -1,7 +1,7 @@
 // src/components/Navbar.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Navbar.css'; // Asegúrate de importar el archivo CSS
+import './Navar.css'; // Asegúrate de importar el archivo CSS
 
 const Navbar = () => {
   return (
